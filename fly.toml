@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for aternos24-7-hostingbot-syfnkw on 2026-09-14T11:39:30Z
+# fly.toml app configuration file generated for aternos24-7-hostingbot-kcqbia on 2026-09-14T11:55:57Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'aternos24-7-hostingbot-syfnkw'
+app = 'aternos24-7-hostingbot-kcqbia'
 primary_region = 'ams'
 
 [build]
